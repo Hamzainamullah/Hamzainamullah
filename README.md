@@ -19,7 +19,7 @@ Python • C++ • SQL • Machine Learning • Deep Learning • NLP • RAG �
 
 ## 🏆 Achievements & Certificates
 - 🌍 **CALICO Fall '26** (UC Berkeley): Team *Genprog*, **final rank 137** out of 1035 teams from 60 countries; 8 problems solved, Python only
-- 💻 **Cloudflight Coding Contest** (42nd CCC, Oct 2026): participation certificates in **DATA/AI, CLASSIC and SCHOOL** categories ([DATA/AI](cloudflight-data-ai.jpg) • [CLASSIC](cloudflight-classic.jpg) • [SCHOOL](cloudflight-school.jpg))
+- 💻 **Cloudflight Coding Contest** (42nd CCC, Oct 2026): participation certificates in **DATA/AI, CLASSIC and SCHOOL** categories ([DATA/AI](cloudflight-data-ai.jpg) • [CLASSIC](cloudflight-classic.jpg) • [SCHOOL](cloudflight-school-pdf.pdf))
 - 🧩 **CS50x Puzzle Day 2026** (Harvard): participation certificate ([View Certificate](https://certificates.cs50.io/00d3456b-8cd8-4021-a62b-83e7418f455d.png?size=letter))
 - 🍌 **Banana Hacks 2026**: hackathon participation certificate ([View Certificate](banana-hacks.jpg) • [Devpost](https://devpost.com/hamzainamullah310))
 - ☁️ **AWS Student Builder Group**: Participant badge on Credly (AWS Student Community Day) ([View Badge](https://www.credly.com/badges/20a28536-8b7c-444e-b577-3bedc462280d/linked_in_profile))
